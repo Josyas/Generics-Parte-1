@@ -1,0 +1,16 @@
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\GenericsPt1.exe
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\GenericsPt1.deps.json
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\GenericsPt1.runtimeconfig.json
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\GenericsPt1.runtimeconfig.dev.json
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\GenericsPt1.dll
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\ref\GenericsPt1.dll
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\bin\Debug\net5.0\GenericsPt1.pdb
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.AssemblyInfo.cs
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.dll
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\ref\GenericsPt1.dll
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.pdb
+D:\VisualStudioProjetos\GenericsPt1\GenericsPt1\obj\Debug\net5.0\GenericsPt1.genruntimeconfig.cache
